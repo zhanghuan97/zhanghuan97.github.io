@@ -5,9 +5,9 @@
   <subtitle>人是一根能思想的苇草！</subtitle>
   <link href="/atom.xml" rel="self"/>
   
-  <link href="https://zh-getyou.github.io/"/>
+  <link href="https://zhgetyou.github.io/"/>
   <updated>2019-08-10T13:28:00.158Z</updated>
-  <id>https://zh-getyou.github.io/</id>
+  <id>https://zhgetyou.github.io/</id>
   
   <author>
     <name>zhanghuan</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Junit单元测试&amp;反射&amp;注解</title>
-    <link href="https://zh-getyou.github.io/2019/08/10/Junit%E5%8D%95%E5%85%83%E6%B5%8B%E8%AF%95-%E5%8F%8D%E5%B0%84-%E6%B3%A8%E8%A7%A3/"/>
-    <id>https://zh-getyou.github.io/2019/08/10/Junit单元测试-反射-注解/</id>
+    <link href="https://zhgetyou.github.io/2019/08/10/Junit%E5%8D%95%E5%85%83%E6%B5%8B%E8%AF%95-%E5%8F%8D%E5%B0%84-%E6%B3%A8%E8%A7%A3/"/>
+    <id>https://zhgetyou.github.io/2019/08/10/Junit单元测试-反射-注解/</id>
     <published>2019-08-10T13:18:19.000Z</published>
     <updated>2019-08-10T13:28:00.158Z</updated>
     
@@ -37,14 +37,14 @@
     </summary>
     
     
-      <category term="JavaWeb" scheme="https://zh-getyou.github.io/tags/JavaWeb/"/>
+      <category term="JavaWeb" scheme="https://zhgetyou.github.io/tags/JavaWeb/"/>
     
   </entry>
   
   <entry>
     <title>Hello World</title>
-    <link href="https://zh-getyou.github.io/2019/08/10/hello-world/"/>
-    <id>https://zh-getyou.github.io/2019/08/10/hello-world/</id>
+    <link href="https://zhgetyou.github.io/2019/08/10/hello-world/"/>
+    <id>https://zhgetyou.github.io/2019/08/10/hello-world/</id>
     <published>2019-08-10T13:10:16.836Z</published>
     <updated>2019-07-18T08:10:30.504Z</updated>
     
@@ -64,8 +64,8 @@
   
   <entry>
     <title>Markdown的使用</title>
-    <link href="https://zh-getyou.github.io/2019/07/19/Markdown%E7%9A%84%E4%BD%BF%E7%94%A8/"/>
-    <id>https://zh-getyou.github.io/2019/07/19/Markdown的使用/</id>
+    <link href="https://zhgetyou.github.io/2019/07/19/Markdown%E7%9A%84%E4%BD%BF%E7%94%A8/"/>
+    <id>https://zhgetyou.github.io/2019/07/19/Markdown的使用/</id>
     <published>2019-07-19T05:54:52.000Z</published>
     <updated>2019-08-10T13:24:45.078Z</updated>
     
@@ -77,12 +77,12 @@
     
     </summary>
     
-      <category term="说明" scheme="https://zh-getyou.github.io/categories/%E8%AF%B4%E6%98%8E/"/>
+      <category term="说明" scheme="https://zhgetyou.github.io/categories/%E8%AF%B4%E6%98%8E/"/>
     
     
-      <category term="导航" scheme="https://zh-getyou.github.io/tags/%E5%AF%BC%E8%88%AA/"/>
+      <category term="导航" scheme="https://zhgetyou.github.io/tags/%E5%AF%BC%E8%88%AA/"/>
     
-      <category term="分享" scheme="https://zh-getyou.github.io/tags/%E5%88%86%E4%BA%AB/"/>
+      <category term="分享" scheme="https://zhgetyou.github.io/tags/%E5%88%86%E4%BA%AB/"/>
     
   </entry>
   
